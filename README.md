@@ -1,50 +1,67 @@
-# practice-1## Example Personal Project Problem Statement
+Goals
 
-Based on Python for Everybody Specialization
+<![if !supportLists]>· <![endif]>Complete the newcoder tutorials
 
-### Goals
+Boundaries / Scope
 
--   Complete the Python for Everybody Specialization
+<![if !supportLists]>· <![endif]>Complete Data Visualization
 
-### Boundaries / Scope
+<![if !supportLists]>· <![endif]>Complete APIs
 
--   Complete Course 1 Programming for Everybody (Getting Started with Python)
--   Complete Course 2 Python Data Structures
+<![if !supportLists]>· <![endif]>Complete Web Scraping
 
-### Success criteria
+<![if !supportLists]>· <![endif]>Complete Networks
 
--   My own application for data retrieval and processing.
--   Weekly work log with screenshots and summaries to demonstrate activity.
+Success criteria
 
-### Constraints
+<![if !supportLists]>· <![endif]>My own application for data retrieval and processing.
 
--   I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.
+<![if !supportLists]>· <![endif]>Weekly work log with screenshots and summaries to demonstrate activity.
 
-### Assumptions
+Constraints
 
--   The courses will be available for the duration of the semester.
--   I have all required software.
--   I can skip the Installing and Using Python units.
+<![if !supportLists]>· <![endif]>I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.
 
-### Stakeholders
+Assumptions
 
--   Professor - for grade
--   Parents - investing in my education and future success, want to make them proud
--   Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
+<![if !supportLists]>· <![endif]>The courses will be available for the duration of the semester.
 
-### Timeline
+<![if !supportLists]>· <![endif]>I have all required software.
+
+<![if !supportLists]>· <![endif]>I can skip the Installing and Using Python units.
+
+Stakeholders
+
+<![if !supportLists]>· <![endif]>Professor - for grade
+
+<![if !supportLists]>· <![endif]>Parents - investing in my education and future success, want to make them proud
+
+<![if !supportLists]>· <![endif]>Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
+
+Timeline
 
 Week:
 
-1.  Chapter One - Why we Program? (3 hours)
-2.  Chapter Two: Variables and Expressions (3 hours)
-3.  Chapter Three: Conditional Code (3 hours)
-4.  Chapter Five: Loops and Iteration (3 hours)
-5.  Chapter Four: Functions (2 hours)
-6.  Chapter Seven: Files (3 hours)
-7.  Chapter Eight: Lists (3 hours)
-8.  Chapter Six: Strings (3 hours)
-9.  Chapter Nine: Dictionaries (3 hours)
-10.  Chapter Ten: Tuples (2 hours)
-11.  Graduation and work on independent program (2 hours)
-12.  Complete independent program (2 hours)
+<![if !supportLists]>1. <![endif]>Data Visualization Part 0: Setup & Part 2: Parse (3 hours)
+
+<![if !supportLists]>2. <![endif]>Data Visualization Part 3: Map & Extended (3 hours)
+
+<![if !supportLists]>3. <![endif]>APIs Part 0: Setup for APIs & Part 1: Setup Raw Data (3 hours)
+
+<![if !supportLists]>4. <![endif]>APIs Part 2: Giantbomb API, Part 3: JSON Parsing, Part 4: The Logic OF the Script (3 hours)
+
+<![if !supportLists]>5. <![endif]>Web Scraping Part 0&1 (3 hours)
+
+<![if !supportLists]>6. <![endif]>Web Scraping Part 2&3 (3 hours)
+
+<![if !supportLists]>7. <![endif]>Web Scraping Part 4&5 (3 hours)
+
+<![if !supportLists]>8. <![endif]>Networks Part 0&1. (3 hours)
+
+<![if !supportLists]>9. <![endif]>Networks Part 2&3 (3 hours)
+
+<![if !supportLists]>10. <![endif]>Networks Part 4&5 (2 hours)
+
+<![if !supportLists]>11. <![endif]>Networks Part 6 (2 hours)
+
+<![if !supportLists]>12. <![endif]>Complete independent program (2 hours)
