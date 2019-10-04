@@ -1,0 +1,12 @@
+#asking users to put number
+#if input is not number, the code still runs
+#using try and except.
+number=input("Enter a number:")
+try:
+    interger=int(number)
+except:
+      interger=-1
+if interger>0:
+   print("Nice work")
+else:
+    print("Not a number")
