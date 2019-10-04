@@ -1,0 +1,8 @@
+#which will never print?
+#somthing else
+if x<2:
+  print("below 2")
+elif x>=2:
+  print("Two or more")
+else:
+  print("Something else")
