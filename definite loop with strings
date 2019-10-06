@@ -1,0 +1,3 @@
+friends=['jose','mary','sally']
+for friend in friends:
+  print("happy ", friend)
